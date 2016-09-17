@@ -5,7 +5,20 @@
    ========================================================================== */
 
 
+#add-header,
+#featured{
+	margin-top: 20px;
+}
 
+.jogo{
+	background-color: #282c33;
+	color: white;
+	margin: 0px;
+}
+
+.jogo > div {
+	padding-top: 10px;
+}
 
 
 
